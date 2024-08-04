@@ -10,7 +10,7 @@ import org.springframework.data.annotation.Id;
  * @see <a href="https://www.jsonschema2pojo.org">jsonschema2pojo.org</a>
  * @see <a href="https://viacep.com.br">ViaCEP</a>
  *
- * @author falvojr
+ * @author diegocb81 (curso de Venilton Falvo Júnior)
  */
 @Entity
 public class Endereco {
